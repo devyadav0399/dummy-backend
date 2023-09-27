@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 24,
+      "location": "India"
+    },
+    {
+      "id": 2,
+      "name": "Michael Bublay",
+      "age": 32,
+      "location": "Thailand"
+    },
+    {
+      "id": 3,
+      "name": "Jacqueline Yadav",
+      "age": 22,
+      "location": "India"
+    }
+  ]
+}
